@@ -7,7 +7,7 @@
 
 I'm a Fullstack Developer Student:smile:
 
-I Love studying about new technologies and create solutions with them.
+I Love studying about new technologies and create solutions.
 
 ## My specialties:
 
